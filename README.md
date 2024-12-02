@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Data Science & Machine Learning Engineer: Building predictive models and analyzing time-series, financial, and textual data. Applying AI to generate actionable insights and support decision-making.<br><br>🎯 Full-Stack Development: Creating web applications that merge frontends with robust backends.<br><br>✨ Financial Insights: Leveraging years of experience in finance and banking to analyze markets, optimize strategies, and drive data-informed decisions.<br><br>📊 Data Visualization & Storytelling: Crafting visual narratives and dashboards to communicate complex insights effectively.</p>
+<p align="left">📚 Data Science & Machine Learning Engineer - Building predictive models and analyzing time-series, financial, and textual data. Applying AI to generate actionable insights and support decision-making.<br><br>🎯 Full-Stack Development - Creating web applications that merge intuitive frontends with robust backends.<br><br>✨ Financial Insights - Leveraging years of experience in finance and banking to analyze markets, optimize strategies, and drive data-informed decisions.<br><br>📊 Data Visualization & Storytelling - Crafting visual narratives and dashboards to communicate complex insights effectively.</p>
 
 ###
 
@@ -37,12 +37,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-   </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    
+  </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 </div>
 
 ###
